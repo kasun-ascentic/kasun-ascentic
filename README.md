@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kasun-ascentic
+- 👋 Hi, I’m @Kasun
 - 👀 I’m interested in Mobile development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on React-natibe and flutter projects
